@@ -1,5 +1,5 @@
-#ifndef Terabee_h
-#define Terabee_h
+#ifndef TerabeeI2C_h
+#define TerabeeI2C_h
 
 #include <Arduino.h>
 #include <crc.h>

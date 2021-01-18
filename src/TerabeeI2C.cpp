@@ -1,4 +1,4 @@
-#include <Terabee.h>
+#include <TerabeeI2C.h>
 
 /*!
     @brief Creates new Terabee Object with default address 0x31
