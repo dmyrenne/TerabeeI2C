@@ -1,10 +1,7 @@
 # TerabeeI2C
-itoryformatversion = 0
-	filemode = false
-	bare = false
-	logallrefupdates = true
-	symlinks = false
-	precomposeunicode = false
-[remote "origin"]
-	url = git@github.com:dmyrenne/TerabeeI2C.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
+This library eases the use of the Terabee ToF sensors when using them in I2C mode.
+
+## How-To use
+ 
+ ```Tearbee(uint8_t s, uint32_t b = 115200, uint8_t p = 1, boolean r = true)``` is the constructor. 
+ 
